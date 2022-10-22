@@ -1,1 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TEST SERVER | Offical l</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href=''>TEST Server</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#rules"></a>Rules</li>
+                    <li><a href="#host">Role</a></li>
+                    <li><a href="#info">Privacy Policy</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="payment.html" class="tbl-biru">Payment</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!-- untuk home -->
+        <section id="home">
+            <div class="home">
+                <p class="deskripsi">Open Beta Server</p>
+               </div>
+             </section>
+      <li>Server have 9 roles</li>
+      <li>SERVER NO RB</li>
+      <li>SERVER ALWAYS UP</li>
+      <li>SERVER OTOMATIS BACK UP</li>
 
+        <!-- untuk courses -->
+        <section id="host">
+            <div class="kolom">
+                <p class="deskripsi">Download Host Here</p>
+                <h2></h2>
+                <a class="tile" title="Host Download" href="https://www.mediafire.com/file/bkhcl59zeqtcw3o/GTLV.txt/file"><cr-icon-button id="actionMenuButton" class="icon-more-vert" tabindex="0" title="More actions" aria-disabled="false" role="button"></cr-icon-button><cr-icon-button id="removeButton" class="icon-clear" tabindex="0" hidden="" title="Remove" aria-disabled="false" role="button"></cr-icon-button><div class="tile-icon"><img draggable="false" alt="" src="chrome://favicon2/?size=24&amp;scale_factor=1x&amp;show_fallback_monogram=&amp;page_url=https%3A%2F%2Fwww.mediafire.com%2F"><div class="query-tile-icon" draggable="false" hidden=""></div></div><div class="tile-title title-ltr"><span>HOST DOWNLOAD</span></div></a>
+                <p>Click 👆</p>
+                <p><a href="" class="tbl-biru">Pelajari Lebih Lanjut</a></p>
+            </div>
+            <img width="696" height="392" class="entry-thumb" src="https://kongbakpao.com/wp-content/uploads/2022/01/kbp_growtopia_banner-696x392.png" srcset="https://kongbakpao.com/wp-content/uploads/2022/01/kbp_growtopia_banner-696x392.png 696w, https://kongbakpao.com/wp-content/uploads/2022/01/kbp_growtopia_banner-300x169.png 300w, https://kongbakpao.com/wp-content/uploads/2022/01/kbp_growtopia_banner-1024x576.png 1024w, https://kongbakpao.com/wp-content/uploads/2022/01/kbp_growtopia_banner-768x432.png 768w, https://kongbakpao.com/wp-content/uploads/2022/01/kbp_growtopia_banner-1536x864.png 1536w, https://kongbakpao.com/wp-content/uploads/2022/01/kbp_growtopia_banner-1068x601.png 1068w, https://kongbakpao.com/wp-content/uploads/2022/01/kbp_growtopia_banner-747x420.png 747w, https://kongbakpao.com/wp-content/uploads/2022/01/kbp_growtopia_banner.png 1920w" sizes="(max-width: 696px) 100vw, 696px" alt="" title="kbp_growtopia_banner">
+        </section>
+
+        <!-- untuk tutors -->
+        <section id="rules">
+            <div class="tengah">
+                <div class="kolom">
+                    <h2 class="deskripsi">List Role</h2>
+                    <li>🌏 PLAYER (ONLY PLAYING)</li>
+                    <li>📢YOUTUBER(ONLY YOUTUBER)</li>
+                    <li>🏅VIP : 2DL (UNLIMITED)</li>
+                    <li>🛸MODS  : 4DL (UNLIMITED)</li>
+                    <li>🚀DEVELOPER : 7DL (UNLIMITED)</li>
+                    <li>🛡SDEV :12DL (UNLIMITED)</li>
+                    <li>💀 HELPER : 15DL (UNLIMITED)</li>
+                    <li>👑 CREATOR NOT FOR SALE</li>
+                </div>
+
+                <div class="info">
+                    <div class="kartu-tutor">
+                        <div id="header" class="noselect">
+                            <div class="header-cell">
+                                <p class="deskripsi">How To Play GT-IV?</p>
+                             <h2>TUTOR</h2>
+                                <p>1.Farm</p>
+                                <h1>INDONESIAN: Layaknya Growtopia Asli Kalian Tentu Nya Bisa Farm Di World Kalian Dengan Tenang | ENGLISH : Just Like The Original Growtopia, You Can of Course Farm in Your World Calmly </h1>
+                                </p>
+                                <p>2.CSN/QQ</p>
+                                <h1>INDOENSIAN: CSN / QQ Tidak Legal Kalian Bebas Bermain CSN Dan QQ Bersama Teman Kalian Atau Mods Ataupun Player Yang Ada | ENGLISH : CSN / QQ is not legal You Are Free to Play CSN and QQ With Your Friends or Existing Mods or Players</h1>
+                                </p>
+                                <p>3.BFG</p>
+                                <p>INDONESIAN: BFG Dimana Kalian Tidak Asing Dengan BFG... BFG Adalah Tempat Bekerja Yang Menarik Yang Dimana Kita Bekerja Mendapatkan Gems Dan Level Dari Hasil BFG Kita | ENGLISH : BFG Where You Are Familiar With BFG... BFG Is An Interesting Workplace Where We Work To Get Gems And Levels From Our BFG Results</p>
+                                <div class="site-logo header-edit-box">
+                                    <a href="https://www.growtopiagame.com/forums/"><img src="https://s3.eu-west-1.amazonaws.com/cdn.growtopiagame.com/forums/theme/v2/Assets/Theme/Grow_forum_header_logo.png" data-orig-src="https://s3.eu-west-1.amazonaws.com/cdn.growtopiagame.com/forums/theme/v2/Assets/Theme/Grow_forum_header_logo.png" alt="Logo" title=""></a>
+                                </div>
+                            </div>
+                            <div class="toolbar">
+                                <ul class="h-right">
+                                    
+                                    
+                                    
+                                </ul>
+                            </div>
+                            
+                        </div>
+                        <p>Ubidev</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- untuk partners -->
+        <section id="partners">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Our Top Partners</p>
+                    <h2>Partners</h2>
+                    <p>1.Ubidev</p>
+                </div>
+                <div class="partner-list">
+                    <div class="kartu-partner">
+                        <div class="site-logo header-edit-box">
+                            <a href="https://www.growtopiagame.com/forums/"><img src="https://s3.eu-west-1.amazonaws.com/cdn.growtopiagame.com/forums/theme/v2/Assets/Theme/Grow_forum_header_logo.png" data-orig-src="https://s3.eu-west-1.amazonaws.com/cdn.growtopiagame.com/forums/theme/v2/Assets/Theme/Grow_forum_header_logo.png" alt="Logo" title=""></a>
+                        </div>
+                    </div>
+                    <div class="toolbar">
+                        <ul class="h-right">
+                            
+                            
+                            
+                        </ul>
+                    </div>
+                    
+                </div>
+                <p>Ubidev</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <div id="contact">
+        <div class="wrapper">
+            <div class="footer">
+                 </body>
+                 </head>
+                 <h3>About Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+                    <p>Test PRIVATE SERVER</p>
+                    <p>Test by :</p>
+                    <p>- Clement</p>
+                    <p>- Sammy</p>
+                    <p>- Rafael</p>
+                    <p>- Arnold</p>
+                    <p>- Michael</p>
+                    <p>- Michael</p>
+                    <p>- Michael</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact</h3>
+                     <li><a href="https://chat.whatsapp.com/Bf9V2x2SCAE6eILogRxBUV">Whatsapp</a></li>
+                     <li><a href="https://discord.gg/y4qBav3c6w">Discord</a></li>
+                </div>
+                <div class="footer-section">
+                    <h3>Social</h3>
+                    <p><b>YouTube: </b>-</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="copyright">
+        <div class="wrapper">
+            &copy; 2022. <b>Test SERVER website</b> All Rights Reserved.
+        </div>
+    </div>
+    
+</body>
+</html>
