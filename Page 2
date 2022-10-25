@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Form Login</title>
+    <title>Login with E-mail</title>
 </head>
 <body>
     <form action="login.php" method="POST">
@@ -9,7 +9,7 @@
         <legend>Login</legend>
         <p>
             <label>E-mail:</label>
-            <input type="text" name="E-mail" placeholder="E-mail..." />
+            <input type="text" name="username" placeholder="Enter your E-mail..." />
         </p>
         <p>
             <label>Password:</label>
