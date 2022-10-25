@@ -8,15 +8,15 @@
         <fieldset>
         <legend>Login</legend>
         <p>
-            <label>Username:</label>
-            <input type="text" name="username" placeholder="username..." />
+            <label>E-mail:</label>
+            <input type="text" name="E-mail" placeholder="E-mail..." />
         </p>
         <p>
             <label>Password:</label>
-            <input type="password" name="password" placeholder="password..." />
+            <input type="password" name="password" placeholder="Password..." />
         </p>
         <p>
-            <label><input type="checkbox" name="remember" value="remember" /> Remember me</label>
+            <label><input type="checkbox" name="remember" value="remember" /> Remember me for 30 days</label>
         </p>
         <p>
             <input type="submit" name="submit" value="Login" />
